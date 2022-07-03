@@ -14,6 +14,8 @@ inputs.addEventListener('input', function (e) {
 
 // Change event
 // ===============
+// this only fires when it is actually the input being used now arrow 
+// like keydown and keyup does
 // this change fires whenever we change or press the key 
 // inputs.addEventListener('change', function (e) { 
 //    console.log("here you go ")
