@@ -1,0 +1,38 @@
+.card{
+    height:100%;
+    width: 20rem;
+    margin: auto;
+    margin-top: 5;
+}
+.card-img-top{
+    height: 150px;
+    width: 100px ;
+}
+.card-title{
+    font-size: 12px;
+    font-weight: bold;
+}
+.card-text{
+    padding: 8px;
+}
+#scoreLimit{
+    font-weight: bold;
+    font-size: medium; 
+}
+label{
+    font-weight: bold;
+    font-size: medium;   
+}
+#player_one_score{
+    padding: 8px;
+}
+#player_two_score{
+    padding-right: 15px;
+}
+.loser{
+    color:red;
+}
+.winner{
+    color: green 
+}
+
