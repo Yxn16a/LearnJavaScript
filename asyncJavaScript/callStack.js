@@ -1,7 +1,7 @@
-// this helps js to track where it is during
+// This helps js to track where it is during
 // processing
 // during call stack java script call different functions
-
+// you can use call stack
 // example
 const multiply = (x, y) => x * y; 
 const square = x => multiply(x, x); 
