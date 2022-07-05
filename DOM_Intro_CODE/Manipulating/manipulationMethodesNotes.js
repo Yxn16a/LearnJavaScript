@@ -166,7 +166,7 @@ for(let l of list){
         l.classList.toggle('highlight');
     }
 }
-//TRAVERSING PARENT/CHILD/SIBLINGS
-// 
+
+
 
 
